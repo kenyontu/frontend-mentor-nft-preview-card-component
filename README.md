@@ -28,4 +28,4 @@ Click to open the full-size screenshot.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kenyontu.github.io/frontend-mentor-nft-preview-card-component/](https://kenyontu.github.io/frontend-mentor-nft-preview-card-component/)
